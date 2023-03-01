@@ -1,13 +1,13 @@
 
 
-# Bootstrap Tabs
+# Bootstrap Movie
 
 
 
 ## Project Skeleton
 
 ```
-Bootstrap Movie
+
       
 SOLUTION
 ├── package.json
