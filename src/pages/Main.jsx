@@ -20,7 +20,7 @@ const Main = () => {
         <FilmInfo dataNew={dataNew} show={show} setShow={setShow} />
       ) : (
         <FilmInfo
-          dataNew={data.filter((item) => item.id == 1)}
+          dataNew={data.filter((item) => item.id === 1)}
           show={show}
           setShow={setShow}
         />

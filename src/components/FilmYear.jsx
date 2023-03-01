@@ -5,7 +5,7 @@ function FilmYear({ setDataNew, setShow, data }) {
 
   const handleClick = (date, e) => {
     setShow(true);
-    setDataNew(data.filter((item) => item.date == date));
+    setDataNew(data.filter((item) => item.date === date));
     setActive(date);
    
   };
@@ -24,7 +24,7 @@ function FilmYear({ setDataNew, setShow, data }) {
             <button
               key={id}
               className={
-                active == date
+                active === date
                   ? "activeBtn border-0 px-2 m-2 fs-4 fw-bold text-secondary"
                   : " border-0 px-2 m-2 fs-4 fw-bold text-secondary"
               }
