@@ -28,7 +28,7 @@ const FilmInfo = ({dataNew,SetDataNew, show, setShow}) => {
                 <StarRatingComponent
                   name="rate"
                   starCount={5}
-                  value={5}
+                  value={rate / 2}
                   editing={true}
                 />
               </div>
