@@ -31,7 +31,7 @@ SOLUTION
 
 ## Expected Outcome
 
-![bootstrap-tabs](bootstrap.gif)
+![bootstrap-tabs](https://github.com/ebru2541/bootstrap-movie/blob/master/src/bootstrap.gif)
 
 ## Skills
 
