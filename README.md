@@ -34,7 +34,7 @@ SOLUTION
 ![bootstrap-tabs](https://github.com/ebru2541/bootstrap-movie/blob/master/src/bootstrap.gif)
 
 ## Skills
-
+```
 
 - HTML
 
@@ -45,5 +45,5 @@ SOLUTION
 - ReactJS
 
 - Bootstrap
-
+```
 bootstrap-movie-r.netlify.app
